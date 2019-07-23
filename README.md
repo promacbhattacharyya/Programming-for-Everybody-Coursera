@@ -1,1 +1,1 @@
-# Programming-for-Everybody-Coursera
+# Python For Everybody
