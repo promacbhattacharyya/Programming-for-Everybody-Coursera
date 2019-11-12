@@ -8,7 +8,7 @@ pb = int(abcde)
 x = pb+1
 print (x)
 
-## Example of input: Conversio using input
+## Example of input: Conversion using input
 rupee = input('Indian Currancy? ')
 dollar = float(rupee)*75
 print ('USD: ', dollar)
